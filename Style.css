@@ -1,0 +1,14 @@
+
+
+.row{
+    margin-top: 100px;
+}
+
+.btn{
+    width: 100%;
+}
+
+.btn button{
+    width: 100%;
+    border-radius: 5px;
+}
